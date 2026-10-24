@@ -1,0 +1,2 @@
+<?php require __DIR__.'/app/bootstrap.php'; render_header('درباره ADVERSING'); ?>
+<main class="container"><div class="page-title"><h1>درباره ADVERSING</h1><p>چاپ حرفه‌ای برای ایده‌هایی که ارزش دیده‌شدن دارند.</p></div><div class="form-card"><p>ADVERSING یک فروشگاه آنلاین برای معرفی و سفارش محصولات چاپی است. این متن نمونه است و پیش از انتشار عمومی باید با اطلاعات واقعی کسب‌وکار، سابقه، آدرس و تعهدات خدماتی جایگزین شود.</p><p>ما به کیفیت، شفافیت قیمت و تجربه سفارش آسان اهمیت می‌دهیم.</p></div></main><?php render_footer(); ?>
